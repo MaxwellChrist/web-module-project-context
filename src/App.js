@@ -15,6 +15,8 @@ function App() {
 		// add the given item to the cart
 	};
 
+	console.log("this is a test");
+
 	return (
 		<div className="App">
 			<Navigation cart={cart} />
