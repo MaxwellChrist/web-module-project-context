@@ -32,9 +32,9 @@
 
 .shopping-cart button {
 	border-radius: 5px;
-	border: 1px solid lightcoral;
+	border: 1px solid white;
 	padding: 10px;
-	background: transparent;
+	background: gray;
 	transition: 0.15s ease-in-out;
 	margin: 10px 0;
 	color: lightcoral;
